@@ -1,0 +1,14 @@
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\bin\Debug\net8.0\CoreContato.deps.json
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\bin\Debug\net8.0\CoreContato.dll
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\bin\Debug\net8.0\CoreContato.pdb
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\CoreContato.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\CoreContato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\CoreContato.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\CoreContato.AssemblyInfo.cs
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\CoreContato.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\CoreContato.dll
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\refint\CoreContato.dll
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\CoreContato.pdb
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\ref\CoreContato.dll
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\bin\Debug\net8.0\CoreContato.runtimeconfig.json
+C:\Users\solan\source\repos\ContatoMensseger\CoreContato\obj\Debug\net8.0\CoreContato.genruntimeconfig.cache

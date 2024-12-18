@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43F9006E-A975-4133-82EB-E93560105A68}|..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\PersistenciaContato.csproj|c:\\git\\pos_tech_fiap_tech_challenge_fase_1\\pos_tech_fase_um\\controllers\\contatopersistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F9006E-A975-4133-82EB-E93560105A68}|..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\PersistenciaContato.csproj|c:\\git\\pos_tech_fiap_tech_challenge_fase_1\\pos_tech_fase_um\\service\\contatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F9006E-A975-4133-82EB-E93560105A68}|..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\PersistenciaContato.csproj|c:\\git\\pos_tech_fiap_tech_challenge_fase_1\\pos_tech_fase_um\\repository\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734A83A-C78E-4DF8-B7DD-0447A5C17F3B}|CoreContato\\CoreContato.csproj|c:\\users\\solan\\source\\repos\\contatomensseger\\corecontato\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734A83A-C78E-4DF8-B7DD-0447A5C17F3B}|CoreContato\\CoreContato.csproj|solutionrelative:corecontato\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F9006E-A975-4133-82EB-E93560105A68}|..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\PersistenciaContato.csproj|c:\\git\\pos_tech_fiap_tech_challenge_fase_1\\pos_tech_fase_um\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5C9057-2234-4596-A5C7-D4612BCC89DC}|Itens de Solu\u00E7\u00E3o{1D5C9057-2234-4596-A5C7-D4612BCC89DC}|C:\\Users\\solan\\source\\repos\\ContatoMensseger\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D5C9057-2234-4596-A5C7-D4612BCC89DC}|Itens de Solu\u00E7\u00E3o{1D5C9057-2234-4596-A5C7-D4612BCC89DC}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1EAF5-6D0D-4DBE-8B00-D74F9C0FC0F4}|TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj|c:\\users\\solan\\source\\repos\\contatomensseger\\testescadastropersistencia\\validatetelefoneemailunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF1EAF5-6D0D-4DBE-8B00-D74F9C0FC0F4}|TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj|solutionrelative:testescadastropersistencia\\validatetelefoneemailunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1EAF5-6D0D-4DBE-8B00-D74F9C0FC0F4}|TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj|c:\\users\\solan\\source\\repos\\contatomensseger\\testescadastropersistencia\\contatopersistenciacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF1EAF5-6D0D-4DBE-8B00-D74F9C0FC0F4}|TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj|solutionrelative:testescadastropersistencia\\contatopersistenciacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734A83A-C78E-4DF8-B7DD-0447A5C17F3B}|CoreContato\\CoreContato.csproj|c:\\users\\solan\\source\\repos\\contatomensseger\\corecontato\\corecontato.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2734A83A-C78E-4DF8-B7DD-0447A5C17F3B}|CoreContato\\CoreContato.csproj|solutionrelative:corecontato\\corecontato.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF1EAF5-6D0D-4DBE-8B00-D74F9C0FC0F4}|TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj|c:\\users\\solan\\source\\repos\\contatomensseger\\testescadastropersistencia\\testescadastropersistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBF1EAF5-6D0D-4DBE-8B00-D74F9C0FC0F4}|TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj|solutionrelative:testescadastropersistencia\\testescadastropersistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F9006E-A975-4133-82EB-E93560105A68}|..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\PersistenciaContato.csproj|c:\\git\\pos_tech_fiap_tech_challenge_fase_1\\pos_tech_fase_um\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F9006E-A975-4133-82EB-E93560105A68}|..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\PersistenciaContato.csproj|c:\\git\\pos_tech_fiap_tech_challenge_fase_1\\pos_tech_fase_um\\interface\\icontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F9006E-A975-4133-82EB-E93560105A68}|..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\PersistenciaContato.csproj|c:\\git\\pos_tech_fiap_tech_challenge_fase_1\\pos_tech_fase_um\\interface\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F9006E-A975-4133-82EB-E93560105A68}|..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\PersistenciaContato.csproj|c:\\git\\pos_tech_fiap_tech_challenge_fase_1\\pos_tech_fase_um\\service\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FC433F-8C8B-40CF-A65F-274546965655}|RegistoContato\\RegistoContato.csproj|c:\\users\\solan\\source\\repos\\contatomensseger\\registocontato\\controllers\\contatoregistrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FC433F-8C8B-40CF-A65F-274546965655}|RegistoContato\\RegistoContato.csproj|solutionrelative:registocontato\\controllers\\contatoregistrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-18T02:34:13.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContatoPersistenciaControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\TestesCadastroPersistencia\\ContatoPersistenciaControllerTests.cs",
+              "RelativeDocumentMoniker": "TestesCadastroPersistencia\\ContatoPersistenciaControllerTests.cs",
+              "ToolTip": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\TestesCadastroPersistencia\\ContatoPersistenciaControllerTests.cs",
+              "RelativeToolTip": "TestesCadastroPersistencia\\ContatoPersistenciaControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:15:24.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoreContato.csproj",
+              "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\CoreContato\\CoreContato.csproj",
+              "RelativeDocumentMoniker": "CoreContato\\CoreContato.csproj",
+              "ToolTip": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\CoreContato\\CoreContato.csproj",
+              "RelativeToolTip": "CoreContato\\CoreContato.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T02:07:50.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestesCadastroPersistencia.csproj",
+              "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj",
+              "RelativeDocumentMoniker": "TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj",
+              "ToolTip": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj",
+              "RelativeToolTip": "TestesCadastroPersistencia\\TestesCadastroPersistencia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T01:59:11.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidateTelefoneEmailUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\TestesCadastroPersistencia\\ValidateTelefoneEmailUnitTest.cs",
+              "RelativeDocumentMoniker": "TestesCadastroPersistencia\\ValidateTelefoneEmailUnitTest.cs",
+              "ToolTip": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\TestesCadastroPersistencia\\ValidateTelefoneEmailUnitTest.cs",
+              "RelativeToolTip": "TestesCadastroPersistencia\\ValidateTelefoneEmailUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:57:59.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\CoreContato\\Contato.cs",
+              "RelativeDocumentMoniker": "CoreContato\\Contato.cs",
+              "ToolTip": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\CoreContato\\Contato.cs",
+              "RelativeToolTip": "CoreContato\\Contato.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T00:51:20.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Program.cs",
+              "ToolTip": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:02:15.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Service\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Service\\RabbitMQService.cs",
+              "ToolTip": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Service\\RabbitMQService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Service\\RabbitMQService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:14:32.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoPersistenciaController.cs",
+              "DocumentMoniker": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Controllers\\ContatoPersistenciaController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Controllers\\ContatoPersistenciaController.cs",
+              "ToolTip": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Controllers\\ContatoPersistenciaController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Controllers\\ContatoPersistenciaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwHEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:32:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatoRepository.cs",
+              "DocumentMoniker": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Repository\\ContatoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Repository\\ContatoRepository.cs",
+              "ToolTip": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Repository\\ContatoRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Repository\\ContatoRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIA8wDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:50:16.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\appsettings.json",
+              "ToolTip": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T20:50:02.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IContatoRepository.cs",
+              "DocumentMoniker": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Interface\\IContatoRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Interface\\IContatoRepository.cs",
+              "ToolTip": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Interface\\IContatoRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Interface\\IContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:46:53.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IContatoService.cs",
+              "DocumentMoniker": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Interface\\IContatoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Interface\\IContatoService.cs",
+              "ToolTip": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Interface\\IContatoService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Interface\\IContatoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:46:38.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContatoRegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\RegistoContato\\Controllers\\ContatoRegistroController.cs",
+              "RelativeDocumentMoniker": "RegistoContato\\Controllers\\ContatoRegistroController.cs",
+              "ToolTip": "C:\\Users\\solan\\source\\repos\\ContatoMensseger\\RegistoContato\\Controllers\\ContatoRegistroController.cs",
+              "RelativeToolTip": "RegistoContato\\Controllers\\ContatoRegistroController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:16:10.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoService.cs",
+              "DocumentMoniker": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Service\\ContatoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Service\\ContatoService.cs",
+              "ToolTip": "C:\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Service\\ContatoService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\git\\POS_TECH_FIAP_TECH_CHALLENGE_FASE_1\\POS_TECH_FASE_UM\\Service\\ContatoService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:48:57.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
